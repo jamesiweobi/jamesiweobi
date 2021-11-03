@@ -1,4 +1,6 @@
-![I am software developer](https://github.com/jamesiweobi/jamesiweobi/blob/main/Customize%20Your%20Code%20Editor%20(VSCode)%20For%20Competitive%20Coding%20%26%20Development.png)
+![I am software developer](https://github.com/jamesiweobi/jamesiweobi/blob/main/Screenshot_20211103-154015_Chrome.jpg)
+
+
 📞 +234-708-349-206 • +234-811-675-8862 •  ✍ iweobijames@gmail.com
 
 ### Hi,  I'm James Iweobi
@@ -12,7 +14,7 @@ I'm a Nigerian software engineer based in Lagos, Nigeria. I have hands-on experi
 ## EDUCATION
 
 ### CARITAS UNIVERSITY 2014
-Bachelor of Computer Sci.
+Bachelor of Computer Science.
 
 ### STUTERN 2021
 Stutern Graduate Accelerator Programme
