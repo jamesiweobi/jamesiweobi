@@ -4,7 +4,7 @@ I'm James Iweobi from Nigeria, I am a software engineer with hands-on experience
 
 ### Hi there 👋, my name is James Iweobi
 #### I am software developer
-![I am software developer](https://pin.it/AkiecIu)
+![I am software developer](https://github.com/jamesiweobi/jamesiweobi/blob/main/Customize%20Your%20Code%20Editor%20(VSCode)%20For%20Competitive%20Coding%20%26%20Development.png)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
