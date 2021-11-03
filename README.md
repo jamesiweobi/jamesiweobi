@@ -7,7 +7,7 @@ I'm James Iweobi from Nigeria, I am a software engineer with hands-on experience
 ![I am software developer](https://github.com/jamesiweobi/jamesiweobi/blob/main/Customize%20Your%20Code%20Editor%20(VSCode)%20For%20Competitive%20Coding%20%26%20Development.png)
 
 #### I am a software developer
-I'm James Iweobi from Nigeria, I am a software engineer with hands-on experience in all levels of software life cycle. I enjoy learning langauges and frame works like Nodejs and Nestjs, I enjoy building east to understand code that is scalable.
+I'm James Iweobi from Nigeria, I am a software engineer with hands-on experience in all levels of the software life cycle. I enjoy learning new langauges and frame works like Nodejs and Nestjs, I love building scalable applications that solve real world problems.
 
 ##### Skills: NodeJs / NestJs / TypeScript / JavaScript/ Handle-Bars / HTML / CSS / MongoDB / DynamoDb / S3 
 
