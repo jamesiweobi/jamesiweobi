@@ -1,7 +1,7 @@
 ![I am software developer](https://github.com/jamesiweobi/jamesiweobi/blob/main/Screenshot_20211103-154015_Chrome.jpg)
 
 
-### Hi,  I'm James Iweobi
+### Hi,  I'm James Iweobi.
 
  
 
@@ -33,23 +33,13 @@ by writing clear API docs.
 
 ### STUTERN
 SOFTWARE ENGINEER INTERN
-#### January2021 - August 2021
+#### January 2021 - August 2021
 * Developed REST APIs, including validation, user authentication and leveragingknowledge of JavaScript, NodeJS, ExpressJS, MongoDB, Git, Postman.
 * Completed the development of multiple web applications with Html, CSS andJavaScript.
 * Unit tested all code using jest.
 
 
 #### ⚡ Fun fact: I was a Telecommunication's Engineer for 7 Years  
-
-##### Below is a very brief history of that time.
-### AIRTEL, HUAWEI, VERVEBA.
-TELECOMMUNICATIONS MICROWAVE TRANSMISSION & INTEGRATION ENGINEER
-#### 2016-2020
-* Radio-signal-level(RSL) deviation resolution within resolution window.
-* Replacement of faulty transmission equipment on live microwave links, takingcare to mitigate downtime or service disruptions.
-* Integration of new network nodes and base-stations into the live network.
-* Training of Jnr engineers and inspection of their completed jobs.
-* Designed a system that improved installation and integration time by 70% andcut wasteful spending by 60%.
 
 ### TECH-STACK
 
@@ -66,6 +56,16 @@ TELECOMMUNICATIONS MICROWAVE TRANSMISSION & INTEGRATION ENGINEER
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesiweobi&show_icons=true&theme=radical)
 
+##### Below is a very brief history of that time.
+### AIRTEL, HUAWEI, VERVEBA
+TELECOMMUNICATIONS MICROWAVE TRANSMISSION & INTEGRATION ENGINEER
+#### 2016-2020
+
+* Radio-signal-level(RSL) deviation resolution within resolution window.
+* Replacement of faulty transmission equipment on live microwave links, takingcare to mitigate downtime or service disruptions.
+* Integration of new network nodes and base-stations into the live network.
+* Training of Jnr engineers and inspection of their completed jobs.
+* Designed a system that improved installation and integration time by 70% andcut wasteful spending by 60%.
 
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jamesiweobi)  
 
