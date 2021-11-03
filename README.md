@@ -1,8 +1,6 @@
 ![I am software developer](https://github.com/jamesiweobi/jamesiweobi/blob/main/Screenshot_20211103-154015_Chrome.jpg)
 
 
-📞 +234-708-349-206 • +234-811-675-8862 •  ✍ iweobijames@gmail.com
-
 ### Hi,  I'm James Iweobi
 
  
@@ -10,6 +8,7 @@
 ## I am a software developer
 I'm a Nigerian software engineer based in Lagos, Nigeria. I have hands-on experience in all levels of the software life cycle. I enjoy learning new langauges and frame works like Nodejs and Nestjs, I love building scalable applications that solve real world problems.
 
+- 📫 How to reach me: 📞 +234-708-349-206 • +234-811-675-8862 •  ✍ iweobijames@gmail.com 
 
 ## EDUCATION
 
@@ -38,6 +37,10 @@ SOFTWARE ENGINEER INTERN
 * Completed the development of multiple web applications with Html, CSS andJavaScript.
 * Unit tested all code using jest.
 
+
+#### ⚡ Fun fact: I was a Telecommunication's Engineer for 7 Years  
+
+##### Below is a very brief history of that time.
 ### AIRTEL, HUAWEI, VERVEBA.
 TELECOMMUNICATIONS MICROWAVE TRANSMISSION & INTEGRATION ENGINEER
 #### 2016-2020
@@ -63,4 +66,12 @@ TELECOMMUNICATIONS MICROWAVE TRANSMISSION & INTEGRATION ENGINEER
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesiweobi&show_icons=true&theme=radical)
 
 
+<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jamesiweobi)  
 
+![GitHub metrics](https://metrics.lecoq.io/jamesiweobi)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jamesiweobi)  
+
+
+
+ -->
