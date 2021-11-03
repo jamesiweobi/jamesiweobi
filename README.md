@@ -5,10 +5,11 @@
 
  
 
-## I am a software developer
+## I am a software developer.
 I'm a Nigerian software engineer based in Lagos, Nigeria. I have hands-on experience in all levels of the software life cycle. I enjoy learning new langauges and frame works like Nodejs and Nestjs, I love building scalable applications that solve real world problems.
 
-- 📫 How to reach me: 📞 +234-708-349-206 • +234-811-675-8862 •  ✍ iweobijames@gmail.com 
+- 📫 How to reach me: 📞 +234-708-349-206 • 📞 +234-811-675-8862  
+- ✍ iweobijames@gmail.com 
 
 ## EDUCATION
 
