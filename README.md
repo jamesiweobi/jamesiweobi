@@ -39,7 +39,7 @@ SOFTWARE ENGINEER INTERN
 * Unit tested all code using jest.
 
 
-#### ⚡ Fun fact: I was a Telecommunication's Engineer for 7 Years  
+
 
 ### TECH-STACK
 
@@ -56,6 +56,7 @@ SOFTWARE ENGINEER INTERN
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesiweobi&show_icons=true&theme=radical)
 
+#### ⚡ Fun fact: I was a Telecommunication's Engineer for 7 Years  
 ##### Below is a very brief history of that time.
 ### AIRTEL, HUAWEI, VERVEBA
 TELECOMMUNICATIONS MICROWAVE TRANSMISSION & INTEGRATION ENGINEER
