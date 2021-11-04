@@ -24,7 +24,7 @@ Software Development.
 
 ### ANSEL TECHNOLOGIES
 SOFTWARE ENGINEER
-#### AUGUEST 2021 - Present
+#### August 2021 - Present
 * Assessed the efficiency and speed of current applications, while writing high-quality scalable code.
 * I created database schemas that represent and support business processes.
 * I set up seamless user signup, login and logout functionality.
