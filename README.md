@@ -47,7 +47,7 @@ SOFTWARE ENGINEER INTERN
   | --------- | -------- | -------- | -------- | ---------- |
   | HTML      | Nodejs   | MongoDb  | S3       |  Jest      |
   | CSS       | Express  | FireStore| Cognito  |            | 
-  | JavaScript| NestJs   | MongoDb  | DynamoDB |            |
+  | JavaScript| NestJs   | DynamoDB  | DynamoDB |            |
   |TypeScript |          |          |          |            |
 
 
