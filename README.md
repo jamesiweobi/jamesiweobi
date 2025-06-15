@@ -1,7 +1,7 @@
 ![I am software developer](https://github.com/jamesiweobi/jamesiweobi/blob/main/Screenshot_20211103-154015_Chrome.jpg)
 
 <h1 align="center">Hi 👋, I'm James Iweobi</h1>
-<h3 align="center">A passionate backedn developer from Nigeria</h3>
+<h3 align="center">A passionate backend developer from Nigeria</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamesiweobi" alt="jamesiweobi" /></a> </p>
 
